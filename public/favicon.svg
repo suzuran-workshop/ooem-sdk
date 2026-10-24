@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="16" fill="#3157d5"/>
+  <g fill="none" stroke="#fff" stroke-width="2" opacity=".55">
+    <path d="M24 10v44M40 10v44M10 24h44M10 40h44"/>
+  </g>
+  <g fill="#fff" font-family="ui-rounded, system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+    <text x="17" y="22">5</text>
+    <text x="32" y="38">3</text>
+    <text x="48" y="55">9</text>
+  </g>
+</svg>
